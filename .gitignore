@@ -1,1 +1,5 @@
 .vs/
+ToDoListApp/bin
+ToDoListApp/obj
+ToDoListDomainLayer/bin
+ToDoListDomainLayer/obj
